@@ -1,0 +1,21 @@
+A:link {text-decoration: none} 
+A:visited {text-decoration: none} 
+A:active {text-decoration: none} 
+A:hover {text-decoration: underline; } .menu:hover {text-decoration: none}
+td {font-family:Verdana; font-size:8pt;}
+p {font-family:Verdana; font-size:8pt;}
+ul {font-family:Verdana; font-size:8pt;}
+body {font-family:Verdana; font-size:8pt;}
+
+textarea {background-color: #F7F7F7; font-family: verdana; font-size: 8pt; color: #414141;  text-transform: lowercase;	border: 1 solid #CCCCCC; padding: 0 }
+
+select {background-color:#F7F7F7; color:#414141; border: 1 solid #CCCCCC; font-family: Verdana; font-size: 8pt;}	
+
+input {
+ font-family: Verdana;
+ font-size: 8pt;
+ font-weight: bold;
+ background-color: #F7F7F7;
+ color: #414141; 
+ border: 1 solid #CCCCCC
+}
